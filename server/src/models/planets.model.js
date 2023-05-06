@@ -82,6 +82,8 @@ async function savePlanet(planet){
  planets.find({
     keplerName:'Name of the planet'
  },'-keplerName another field')
+
+ We are creating pipeline
 */
 
 module.exports={
